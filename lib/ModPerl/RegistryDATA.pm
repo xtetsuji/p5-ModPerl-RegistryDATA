@@ -204,7 +204,7 @@ __END__
 
 =head1 NAME
 
-ModPerl::RegistryDATA - Run unaltered CGI scripts persistently under mod_perl
+ModPerl::RegistryDATA - Can read __DATA__ section ModPerl::Registry* family.
 
 =head1 Synopsis
 
