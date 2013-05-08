@@ -4,3 +4,6 @@ MANIFEST
 README
 t/00compile.t
 lib/ModPerl/RegistryDATA.pm
+lib/ModPerl/RegistryPreforkDATA.pm
+lib/ModPerl/PerlRunDATA.pm
+lib/ModPerl/PerlRunPreforkDATA.pm
