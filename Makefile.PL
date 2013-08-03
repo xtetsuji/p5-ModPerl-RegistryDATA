@@ -21,7 +21,7 @@ WriteMakefile(
             repository => 'git://github.com/xtetsuji/p5-ModPerl-RegistryDATA.git',
         },
     },
-    LISENSE        => "perl",
+    LICENSE        => "perl",
     PL_FILES       => {},
     EXE_FILES      => [],
     dist           => {
